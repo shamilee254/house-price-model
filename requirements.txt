@@ -1,0 +1,6 @@
+flask
+flask-cors
+gunicorn
+numpy
+# add any other libs your model needs (scikit-learn, pandas etc)
+scikit-learn
